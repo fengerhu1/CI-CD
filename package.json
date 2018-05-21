@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fengerhu1.github.io/CI-CD/",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
